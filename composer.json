@@ -1,0 +1,14 @@
+{
+    "name": "wispiring/qcloudsms",
+    "type": "library",
+    "author": [
+        {
+            "name": "Wispiring",
+            "email": "code@wispiring.com"
+        }
+    ],
+    "description": "Tencent Qcloud SMS library fork",
+    "autoload": {
+        "psr-4": { "Qcloud\\Sms\\": "demo/php" }
+    }
+}
